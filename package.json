@@ -1,0 +1,23 @@
+{
+  "name": "normiq",
+  "version": "0.0.0",
+  "description": "Just a normiq package",
+  "main": "index.js",
+  "bin": {
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yarikos/normiq.git"
+  },
+  "keywords": [
+    "normiq"
+  ],
+  "author": "yarikos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yarikos/normiq/issues"
+  },
+  "homepage": "https://github.com/yarikos/normiq"
+}
